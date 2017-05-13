@@ -3,14 +3,14 @@
 
 ## Introduction
 
-This is based on the code [found here](http://discuss.cocos2d-x.org/t/control-sphere-object-with-simple-joystick-in-box2d/491). The code has been re-formatted and changed to run on Cocos2D-X v3.xx. It has also been simplified by removing the Box2D code.
+This is based on the [code here](http://discuss.cocos2d-x.org/t/control-sphere-object-with-simple-joystick-in-box2d/491). The code has been re-formatted and changed to run on Cocos2D-X v3.xx. It has also been simplified by removing the Box2D code.
 
 
 ## Installation
 
 A new Cocos2D-X project will need to be created so these files can be added to the project. To create a new Cocos2D-X project perform the steps below:
 
-1. Download and install the latest SDK from the Cocos2D-X [download page](http://www.cocos2d-x.org/download). This was created using Cocos2D-X v3.15. 
+1. Download and install the latest SDK from the [Cocos2D-X download page](http://www.cocos2d-x.org/download). This was created using Cocos2D-X v3.15. 
 
 2. Create a new Cocos2D-X project by running the `cocos` console command.
 
