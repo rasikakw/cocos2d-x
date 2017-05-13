@@ -23,6 +23,8 @@ A new Cocos2D-X project will need to be created so these files can be added to t
 
 ## Known Issues
 
+The following issues are currently present:
+
 1. The joystick sprites appear at the bottom left of the screen but the actual joystick is functional at the top-left of the screen. So to make the player sprite move, click-hold and move the cursor at the top-left side of the screen. Experiment to find the exact location.
 
 2. The joystick movement is vertically inverted to suit flight simulator type games, but not other games.
