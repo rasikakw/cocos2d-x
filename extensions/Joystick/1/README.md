@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is based on the [code here](http://discuss.cocos2d-x.org/t/control-sphere-object-with-simple-joystick-in-box2d/491). The code has been re-formatted and changed to run on Cocos2D-X v3.xx. It has also been simplified by removing the Box2D code.
+This is based on the [code here](http://discuss.cocos2d-x.org/t/control-sphere-object-with-simple-joystick-in-box2d/491). The code has been re-formatted and changed to run on Cocos2D-X v3.xx. It has also been simplified with the removal of the Box2D code.
 
 
 ## Installation
