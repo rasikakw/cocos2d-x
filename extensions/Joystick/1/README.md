@@ -1,4 +1,4 @@
-# Cocos Joystick v1.00, 15 May 2017
+# Cocos2D-X Joystick v1.00, 15 May 2017
 
 
 ## Introduction
