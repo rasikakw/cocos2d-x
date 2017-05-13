@@ -10,7 +10,7 @@ This is based on the code [found here](http://discuss.cocos2d-x.org/t/control-sp
 
 A new Cocos2D-X project will need to be created so these files can be added to the project. To create a new Cocos2D-X project perform the steps below:
 
-1. Download and install the latest Cocos2D-X SDK from [download page](http://www.cocos2d-x.org/download). This was created using Cocos2D-X v3.15. 
+1. Download and install the latest SDK from the Cocos2D-X [download page](http://www.cocos2d-x.org/download). This was created using Cocos2D-X v3.15. 
 
 2. Create a new Cocos2D-X project by running the `cocos` console command.
 
