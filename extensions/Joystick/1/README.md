@@ -27,7 +27,7 @@ A new Cocos2D-X project will need to be created so these files can be added to t
 
 2. The joystick movement is vertically inverted to suit flight simulator type games, but not other games.
 
-If you can provide solutions for the issues above, please [post them here] ().
+If you can provide solutions for the issues above, please [post them here] (). Thank you.
 
 
 ## Version History
