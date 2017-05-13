@@ -14,7 +14,7 @@ A new Cocos2D-X project will need to be created so these files can be added to t
 
 2. Create a new Cocos2D-X project by running the `cocos` console command.
 
-3. Replace all the files inside the 'Classes' with the files here. Add / import the newly added file to your IDE project.
+3. Replace all the files inside the 'Classes' with the 'Classes' files from here. Add / import the newly added file to your IDE project.
 
 4. Add all the files in the 'Resources' folder into your project's 'Resources' folder and add / import them to your project.
 
@@ -23,8 +23,8 @@ A new Cocos2D-X project will need to be created so these files can be added to t
 
 ## Known Issues
 
-1. The joystick sprites appear at the bottom left of the screen but the actual joystick is functional at the top top left of the screen. So to make the player sprite move, click-hold and move the cursor at the top left side of the screen. Experiment to find the exact location.
+1. The joystick sprites appear at the bottom left of the screen but the actual joystick is functional at the top-left of the screen. So to make the player sprite move, click-hold and move the cursor at the top-left side of the screen. Experiment to find the exact location.
 
-2. The joystick movement is vertically inverted to suit flight simulator type games, but no other games.
+2. The joystick movement is vertically inverted to suit flight simulator type games, but not other games.
 
 If you can provide solutions for the issues above, please [post them here] ().
