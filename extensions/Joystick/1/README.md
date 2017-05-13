@@ -32,6 +32,6 @@ If you can provide solutions for the issues above, please [post them here] ().
 
 ## Version History
 
-Version 1.00 
+### Version 1.00 
 
 Released on the 15th of May 2017.
