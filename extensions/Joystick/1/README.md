@@ -8,7 +8,7 @@ This is based on the [code here](http://discuss.cocos2d-x.org/t/control-sphere-o
 
 ## Download
 
-Clone or download these files [from here](https://github.com/rasikakw/cocos2d-x).
+Clone or download these files from the [project root](https://github.com/rasikakw/cocos2d-x).
 
 
 ## Installation
