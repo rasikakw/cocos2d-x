@@ -6,6 +6,11 @@
 This is based on the [code here](http://discuss.cocos2d-x.org/t/control-sphere-object-with-simple-joystick-in-box2d/491). The code has been re—formatted and updated to run on Cocos2D-X v3.x. It has also been simplified with the removal of the Box2D code.
 
 
+## Download
+
+Clone or download these files [from here](https://github.com/rasikakw/cocos2d-x)
+
+
 ## Installation
 
 Create a new Cocos2D-X project so that the files here can be added to it. To create a new Cocos2D-X project perform the steps below:
