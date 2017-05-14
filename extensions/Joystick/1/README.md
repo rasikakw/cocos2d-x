@@ -8,15 +8,15 @@ This is based on the [code here](http://discuss.cocos2d-x.org/t/control-sphere-o
 
 ## Installation
 
-A new Cocos2D-X project will need to be created so these files can be added to the project. To create a new Cocos2D-X project perform the steps below:
+Create a new Cocos2D-X project so that the files here can be added to it. To create a new Cocos2D-X project perform the steps below:
 
 1. Download and install the latest SDK from the [Cocos2D-X download page](http://www.cocos2d-x.org/download). This was created using Cocos2D-X v3.15. 
 
-2. Create a new Cocos2D-X project by running the `cocos` console command.
+2. Create a new Cocos2D-X project by running the `cocos` console command. Refer to the Cocos2D-X documentation for more information on this; view [Installation](http://www.cocos2d-x.org/docs/static-pages/installation.html) and [Cocos command-line tool](http://www.cocos2d-x.org/docs/editors_and_tools/cocosCLTool/).
 
-3. Replace all the files inside your project's 'Classes' folder with the 'Classes' files from here. Add / import the newly added file to your IDE project.
+3. Replace all the files inside your project’s ‘Classes’ folder with the ‘Classes’ files from here. Add / import the newly added file to your IDE project.
 
-4. Add all the files in the 'Resources' folder into your project's 'Resources' folder and add / import them to your IDE project.
+4. Add all the files in the ‘Resources’ folder into your project’s ‘Resources’ folder and add / import them to your IDE project.
 
 5. Build and run.
 
