@@ -32,6 +32,11 @@ The following issues are currently present:
 If you can provide solutions for the issues above, please [post them here] (). Thank you.
 
 
+## Alternatives
+
+1. [JoystickCocos2D-X](https://github.com/prsolucoes/JoystickCocos2D-X)
+
+
 ## Version History
 
 ### Version 1.00 
